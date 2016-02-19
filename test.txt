@@ -1,1 +1,1 @@
-print("Тест")
+Console.WriteLine("Тест хранилища");
